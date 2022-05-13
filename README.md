@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bossman Owusu
-- 👀 I’m interested in creating beautiful websites from scratch as well as with wordpress! 
+- 👀 I’m interested in creating beautiful websites from scratch (html, css and Javascript) as well as with wordpress! 
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on any project requiring the use of HTML, CSS, Javascript as well as wordpress
 - 📫 How to reach me: Email: ghowusuboss@gmail.com  Telephone: +233557372750
